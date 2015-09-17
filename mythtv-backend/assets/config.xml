@@ -1,7 +1,7 @@
 <Configuration>
   <Database>
     <PingHost>1</PingHost>
-    <Host>localhost</Host>
+    <Host>db</Host>
     <UserName>mythtv</UserName>
     <Password>mdL3Qnz42YFATyVa</Password>
     <DatabaseName>mythconverg</DatabaseName>
